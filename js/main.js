@@ -28,3 +28,8 @@ document.querySelectorAll(".hamburger")[0].addEventListener("click", function(){
     enlacesHeader.classList.toggle("menudos");
 })
 
+// Animacion de preloader
+window.addEventListener("load", function(){
+    this.document.getElementById("loader").classList.toggle("loader2")
+})
+
