@@ -528,7 +528,7 @@ footer {
     }
 }
 
-/* Breakpoint responsive 800px */
+/* Breakpoint responsive 600px */
 @media screen and (max-width:600px) {
     .titulo {
         font-size: 35px;
